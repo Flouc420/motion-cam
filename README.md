@@ -1,4 +1,4 @@
-# motion-cam 📹
+# motion-cam
 
 A tiny motion-detection camera in Python. When something moves in front of the camera, it records a short clip and sends it to you on Telegram.
 
@@ -58,9 +58,9 @@ Press `Ctrl+C` to stop.
 
 ## Status / next steps
 
-- ✅ Works on Windows 11 (Python 3.13, `cv2.CAP_DSHOW` backend)
-- 🔜 Port to a low-power always-on board so the PC can stay off
-- 🔜 Daily/night mode tuning for the IR-cut filter
+- Done: Works on Windows 11 (Python 3.13, `cv2.CAP_DSHOW` backend)
+- Next: Port to a low-power always-on board so the PC can stay off
+- Next: Daily/night mode tuning for the IR-cut filter
 
 ## Stack
 
